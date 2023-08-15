@@ -1,3 +1,5 @@
+<center><img src="public/horizon.png" alt="Horizon Icon" width="90"/></center>
+
 # Horizon : Bluesky Web Client
 
 
