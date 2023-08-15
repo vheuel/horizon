@@ -20,6 +20,6 @@ npm i
 npm run dev
 ```
 ## Development
-Want to contribute?
+Want to contribute? <br>
 Feel free to open a pull request to add any missing features.
 
