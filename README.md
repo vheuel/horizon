@@ -19,5 +19,7 @@ Run following commands like any other React project, Make sure you have ViteJS i
 npm i
 npm run dev
 ```
-
+## Development
+Want to contribute?
+Feel free to open a pull request to add any missing features.
 
