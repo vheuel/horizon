@@ -19,3 +19,7 @@ Run following commands like any other React project, Make sure you have ViteJS i
 npm i
 npm run dev
 ```
+
+<p align="center"><img src="https://static.bnewbold.net/tmp/under_construction_bar.gif" /></p>
+
+
