@@ -11,3 +11,13 @@
 Horizon is an unofficial client for using BlueSky on the web. Currently in its early stages of development, so any help and pull request would be appreciated.
   
 </p>
+
+## Installation
+
+
+```sh
+npm i
+npm run dev
+```
+
+
