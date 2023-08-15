@@ -13,7 +13,7 @@ Horizon is an unofficial client for using BlueSky on the web. Currently in its e
 </p>
 
 ## Installation
-
+Run following commands like any other React project, Make sure you have ViteJS installed globally.
 
 ```sh
 npm i
